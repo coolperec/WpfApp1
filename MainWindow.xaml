@@ -51,7 +51,7 @@ Content="Открыть" Margin="47,0,0,6" Width="69" Click="Button_Click" Grid.
             <Label Canvas.Left="180" Canvas.Top="30"  Content="2.txt"/>
             <Label Canvas.Left="215" Canvas.Top="30"  Content="3.txt"/>
         </Canvas>
-        <WrapPanel Margin="152,61.0.10">
+        <WrapPanel Margin="152,61,0,10">
             <Button Background = "Yellow" Content ="A" Width="70" Height="70" Margin="0,10,10,0" BorderThickness="0"/>
             <Button Background = "Red" Content ="B" Width="70" Height="70" Margin="0,10,10,0" BorderThickness="0"/>
             <Button Background = "Green" Content ="C" Width="70" Height="70" Margin="0,10,10,0" BorderThickness="0"/>
